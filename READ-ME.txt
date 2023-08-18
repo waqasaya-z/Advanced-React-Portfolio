@@ -1,0 +1,2 @@
+> Run `npm install` to install all the required packages from package.json
+> run `npm run start` to run the web page
